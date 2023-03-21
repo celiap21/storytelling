@@ -18,6 +18,7 @@ Tipo/Género:
 ### Personaje
 
 ![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
+[Abuela] (https://dle.rae.es/abuelo)
 
 Nombre: 
 
